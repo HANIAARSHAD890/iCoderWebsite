@@ -1,0 +1,16 @@
+.Hbutton{
+  padding:12px;
+  margin:15px ;
+  float:left;
+  display: block;
+  width: 100%;
+  margin: auto;
+}
+ .carousel-caption h1{
+        align-items: center;
+        text-align: center;
+    }
+    .carousel-item img{
+        opacity: 0.8;
+        
+    }
